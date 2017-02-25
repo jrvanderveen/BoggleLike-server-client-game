@@ -1,0 +1,5 @@
+1) Johan van der Veen
+2) Every thing seems to be working perfectly.  The only possible thing i could see not working is some specific protocol that i might have messed up.
+3) I did'nt get a chance to test with anyone else from the class but I did test that the server can handle at least 3 games at a time.  If a client disconnects that game ends
+and both clients are disconnected.  If the server ever dc's both clients will exit.  If one player does not take their turn in time the game continues as it should (i notify the user however).
+4) Where to start.  I thought it would be easy but it was not. I felt like nothing was the most dificult there were just constantly chances for things to go wrong and they seemed to all ways do that.

@@ -1,0 +1,8 @@
+1) For this assignment I will create a server and client compliant with the given protocol.  The server will be the host for a basic word game where clients will have to create words
+from a given set of letters until failure.  The server will be able to handle an arbitrary number of unique games between two clients.
+
+2)As of now and because we are using a stream based protocol I do not see any faults with the protocol.
+
+3)As of now I haven't seen anything that looks to challenging but possible dealing with clients leaving the game with out finishing could be hard to deal with.
+
+4)I think it would be cool to write my own implementation for my trie structure but if it become to difficult I will update this plan with the open source version I decide to use. 
